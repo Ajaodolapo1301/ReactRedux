@@ -1,0 +1,39 @@
+{
+  "name": "frind",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "clarifai": "^2.9.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-particles-js": "^2.3.0",
+    "react-redux": "^5.1.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "react-tilt": "^0.1.4",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.88.1",
+    "tachyons": "^4.11.1",
+    "validator": "^11.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@craco/craco": "^5.5.0",
+    "@semantic-ui-react/craco-less": "^1.1.0",
+    "semantic-ui-less": "^2.4.1"
+  },
+  "Scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject"
+  }
+}
